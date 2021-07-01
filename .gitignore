@@ -1,0 +1,5 @@
+*.docx
+*.zip
+*.pdf
+*.txt
+build/

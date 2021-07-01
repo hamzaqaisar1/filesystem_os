@@ -1,0 +1,12 @@
+create|file2
+open|file2
+write|file2|kdj flkajsdlkfj alsdjflaksjd lfjasl kdjfalksdjf lksajd lkffjdslakjfklas|
+read|file2
+close|file2
+mkdir|dir2
+chdir|./dir2
+create|file1
+open|file1
+write|file1|LDKSJF KFADFd fjlkajsklfj adlkfjalkdfjalsdkjf lksadjflkjadkldjsa lkfajldkf j|
+read|file1
+close|file1
